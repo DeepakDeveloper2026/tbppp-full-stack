@@ -1,0 +1,30 @@
+.A{
+   display:inline-block;
+   width: 100%;
+   height: 20%;
+   border: 2px solid black;
+}
+.l{
+    display:inline-block;
+    width: 100%;
+    height: 20px;
+    border: 2px solid black;
+ }
+ .m{
+    display:inline-block;
+    width: 100%;
+    height: 20%;
+    border: 2px solid black;
+ }
+ .r{
+    display:inline-block;
+    width: 100%;
+    height: 20%;
+    border: 2px solid  black;
+ }
+ .b{
+    display:inline-block;
+    width: 100%;
+    height: 20%;
+    border: 2px solid black;
+ }
